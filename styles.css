@@ -23,3 +23,18 @@ img {
   width: 65px;
   height: 65px;
 }
+
+h1 {
+  font-family: Inter, sans-serif;
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+  font-weight: 600;
+  font-size: 28px;
+}
+
+h2 {
+  font-family: Inter, sans-serif;
+  text-align: center;
+  color: hsl(75, 94%, 57%);
+  font-size: 14px;
+}
