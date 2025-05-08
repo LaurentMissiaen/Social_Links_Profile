@@ -75,3 +75,11 @@ a {
   padding-bottom: 14px;
   border-radius: 8px;
 }
+
+@media (max-width: 400px) {
+  .card {
+    width: 270px;
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+}
