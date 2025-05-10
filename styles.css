@@ -6,12 +6,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: hsl(0, 0%, 8%);
+  background-color: #4b5936;
   height: 100%;
 }
 
 .card {
-  background-color: hsl(0, 0%, 12%);
+  background-color: #a3a656;
   padding: 35px;
   padding-bottom: 12px;
   border-radius: 12px;
@@ -30,7 +30,7 @@ img {
 h1 {
   font-family: Inter, sans-serif;
   text-align: center;
-  color: hsl(0, 0%, 100%);
+  color: #4b5936;
   font-weight: 600;
   font-size: 28px;
   margin-bottom: 0;
@@ -39,7 +39,7 @@ h1 {
 h2 {
   font-family: Inter, sans-serif;
   text-align: center;
-  color: hsl(75, 94%, 57%);
+  color: #733c1d;
   font-weight: 700;
   font-size: 14px;
   margin-top: 8px;
@@ -48,7 +48,7 @@ h2 {
 p {
   font-family: Inter, sans-serif;
   text-align: center;
-  color: hsl(0, 0%, 100%);
+  color: #4b5936;
   font-size: 14px;
   font-weight: 400;
   margin-bottom: 0;
@@ -66,11 +66,11 @@ p {
 a {
   text-align: center;
   text-decoration: none;
-  color: hsl(0, 0%, 100%);
+  color: #4b5936;
   font-family: Inter, sans-serif;
   font-size: 14px;
   font-weight: 600;
-  background-color: hsl(0, 0%, 20%);
+  background-color: #d9ab82;
   padding-top: 14px;
   padding-bottom: 14px;
   border-radius: 8px;
@@ -79,8 +79,8 @@ a {
 a:focus,
 a:hover {
   outline: none;
-  background-color: hsl(75, 94%, 57%);
-  color: hsl(0, 0%, 8%);
+  background-color: #733c1d;
+  color: #f2d7b6;
   cursor: pointer;
 }
 
