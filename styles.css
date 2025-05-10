@@ -76,6 +76,14 @@ a {
   border-radius: 8px;
 }
 
+a:focus,
+a:hover {
+  outline: none;
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
+  cursor: pointer;
+}
+
 @media (max-width: 400px) {
   .card {
     width: 270px;
